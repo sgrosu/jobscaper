@@ -10,3 +10,6 @@ Edit the search_term variable to fit your needs (e.g. 'devops', or 'support'). T
 
 Edit the details to `with file.open` function to load the file you saved eralier and then provide a details file name to the to_file function at the end.
 
+### How to run:
+
+`python base.py`
