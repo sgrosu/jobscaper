@@ -7,7 +7,7 @@ if __name__ == "__main__":
     
     # get list of jobs and dump them into a json file
     
-    '''
+
     jobs = {}
     pagenum = 0
     
@@ -19,7 +19,7 @@ if __name__ == "__main__":
         time.sleep(30)
     print(len(jobs))
     to_file(jobs,'linkedin05052021.json')
-    '''
+
     
     
     # get details from json file
